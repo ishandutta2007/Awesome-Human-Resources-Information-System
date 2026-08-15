@@ -1,6 +1,6 @@
 # Awesome-Human-Resources-Information-System
 
-# Top HRIS Tools Ecosystem
+## Top HRIS Tools Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Human Resource Information Systems, Employee Records, Payroll, Leave & Attendance, Onboarding, Benefits & People Operations*
 **Last updated: August 2026**
